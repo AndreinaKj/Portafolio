@@ -1,0 +1,27 @@
+Amarillo 
+
+Hex: #e5c027
+rgb(229,192,39)
+
+Rojo
+
+Hex: #c35b48
+rgb(195,91,72)
+
+Verde
+
+Hex: #458962
+rgb(69,137,98)
+
+La responsabilidad, la honestidad y la solidaridad son valores que me caracterizan. Soy Andreína Medina Yáquer especialista en UX Design.
+Amante de la lengua, idiomas y estilos de redacción. Me apasionan la música y las culturas. 
+Asimismo la transparencia y la equidad son muy importantes para mi, por ello abogo por las causas que me parecen justas.
+Laboratoria es mi plataforma profesional, donde reforcé mis cualidades de liderazgo, 
+manejo de crisis, resolución de conflictos, autoconocimiento y comunicación asertiva.
+Me gustaría acompañarte a desarrollar tus ideas y proyectos de innovación. 
+Trabajo en espacios colaborativos y equipos multidisciplinarios para acompañarte en el éxito de tu proyecto.
+
+La responsabilidad, la honestidad y la solidaridad son valores que me caracterizan. Amante de la lengua, idiomas y estilos de redacción. 
+Me apasionan la música y las culturas. Asimismo la transparencia y la equidad son muy importantes para mi, 
+por ello abogo por las causas que me parecen justas. Trabajo en espacios colaborativos y equipos multidisciplinarios 
+para acompañarte en el éxito de tu proyecto. Me gustaría ser parte de tu equipo y desarrollar tus ideas y proyectos de innovación. 
